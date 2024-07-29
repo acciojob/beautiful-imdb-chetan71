@@ -1,2 +1,16 @@
-
-/* Your CSS Code here. */
+body{
+	background-color: gray;
+	
+}
+img{
+	height: 800px;
+	width: 300px;
+	opacity: 1;
+}
+p{
+	position: relative;
+	top: 10px;
+	text-align: center;
+	font-size: 28px;
+	width: 500px;
+}
